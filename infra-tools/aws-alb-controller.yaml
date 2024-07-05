@@ -13,4 +13,4 @@ spec:
       releaseName: aws-load-balancer-controller
   destination:
     server: "https://kubernetes.default.svc"
-    namespace: aws-load-balancer-controller
+    namespace: kube-system
